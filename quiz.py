@@ -44,7 +44,7 @@ print(
 answer_1 = input("resposta: ")
 
 if answer_1 == "c":
-    print("Boa caraai")
+    print("Boa caraaai")
     score = score + 1
 else:
     print("que merda em cara, errou")
